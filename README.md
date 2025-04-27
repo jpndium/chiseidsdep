@@ -1,6 +1,6 @@
-# jd-kanjidep
+# kanjidep
 
-Japanese Data (JD) kanjidep data module.
+JPND kanjidep data module.
 
 ## License
 
