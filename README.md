@@ -1,6 +1,6 @@
-# kanjidep
+# chiseidsdep
 
-JPND kanjidep data module.
+JPND chiseidsdep data module.
 
 ## License
 
