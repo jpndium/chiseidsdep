@@ -13910,7 +13910,7 @@
 {"character":"葕","pattern":"⿱","composition":"艹 衍","dependencies":"艹 彳 一 丁 亍 行 氵 衍"}
 {"character":"葖","pattern":"⿱","composition":"艹 突","dependencies":"艹 宀 八 穴 犬 突"}
 {"character":"著","pattern":"⿱","composition":"艹 者","dependencies":"艹 耂 日 者","dependents":"㒂 䦃 墸 擆 躇 鐯 𡈥 𢅔 𣃈 𣛰 𣦡 𤀞 𤏸 𤻔 𥖛 𦅷 𫊔 𬙅 𬟜"}
-{"character":"葘","pattern":"⿳ ⿻","composition":"艹 巛 一 田","dependencies":"艹 𡿨 巛 一 田"}
+{"character":"葘","pattern":"⿱","composition":"艹 𱰭","dependencies":"艹 𡿨 巛 一 𡿧 田 𱰭"}
 {"character":"葙","pattern":"⿱","composition":"艹 相","dependencies":"艹 木 目 相"}
 {"character":"葚","pattern":"⿱","composition":"艹 甚","dependencies":"艹 &CDP-88C8; 匚 儿 匹 甚","dependents":"𫃒"}
 {"character":"葛","pattern":"⿱","composition":"艹 曷","dependencies":"艹 曰 勹 𠃊 人 亾 匃 曷","dependents":"㵧 䗶 噶 嶱 擖 獦 礍 臈 譪 轕 𡑪 𢢖 𣰌 𤩲 𥀥 𥢸 𦅶 𧝶 𨆍 𨞛 𨭛 𩍛 𩦞 𩯝 𩼙 𪆰 𪙰 𬸭 𭁞 𭥅 𭭸 𭶎 𮝺 𮤅 𰾿 𱤟"}
@@ -35761,7 +35761,7 @@
 {"character":"𡿤","pattern":"⿰ ⿱ ⿳ ⿱ ⿱ ⿱ ⿱","composition":"卝 &GT-K00059; 日 &GT-K00059; 土 山 口 山 口","dependencies":"卝 &GT-K00059; 日 土 山 口"}
 {"character":"𡿥","pattern":"⿰","composition":"山 鬱","dependencies":"山 &U-i002+2FF1; 木 林 缶 冖 凵 㐅 丶 𠂭 𠚍 匕 鬯 彡 鬱"}
 {"character":"𡿦"}
-{"character":"𡿧","pattern":"⿻","composition":"巛 一","dependencies":"𡿨 巛 一","dependents":"湽 𤱹 𦿨 𧇏 𧇕 𱰭 𱹼"}
+{"character":"𡿧","pattern":"⿻","composition":"巛 一","dependencies":"𡿨 巛 一","dependents":"湽 葘 𤱹 𦿨 𧇏 𧇕 𱰭 𱹼"}
 {"character":"𡿨","dependents":"㑎 㑿 㓯 㛴 㜉 㜽 㦽 㭮 㯿 㲱 㳨 㴩 㹵 㺁 㺐 㼃 㿳 䀴 䁽 䃳 䅔 䉭 䎩 䐉 䜈 䜲 䝓 䞓 䟁 䣆 䣎 䪉 䪫 䭬 䲃 俓 偸 儠 兪 剄 剿 勁 勦 匘 喩 嗈 坙 堖 娙 婾 崰 巛 巜 巠 巡 巢 巤 巰 廱 廵 弳 徑 惱 拶 挳 摷 擸 桚 桱 椔 楡 樔 殌 氫 涇 淄 湽 漅 灉 災 烴 煭 爉 牼 犣 獵 瑙 璅 甾 疀 痙 癰 硜 碯 窼 粼 經 緇 繅 缁 缫 罺 羥 脛 腦 臘 舝 莖 菑 葘 葝 薻 蛵 蠟 衟 誙 踁 躐 輕 輜 輺 轈 辎 逕 邋 邕 郺 郻 鄛 鋞 錙 鍿 鎻 鏁 鑋 鑞 锱 镴 陘 隟 雝 頸 鬣 鯔 鱲 鲻 鵛 鶅 齆 𠃞 𠈉 𠉽 𠊖 𠊦 𠐄 𠖠 𠗊 𠗢 𠙗 𠙭 𠚋 𠚴 𠛏 𠛱 𠜊 𠞜 𠞝 𠞤 𠞰 𠟾 𠟿 𠠌 𠠗 𠡔 𠡝 𠡢 𠢶 𠨀 𠮰 𠮺 𠲮 𠶼 𠸵 𠻥 𡄸 𡅘 𡋏 𡍗 𡎗 𡏮 𡐕 𡐫 𡒏 𡓍 𡓱 𡔏 𡗇 𡘁 𡙂 𡜏 𡜣 𡜪 𡟠 𡡊 𡢆 𡥜 𡬲 𡬸 𡬹 𡭎 𡭑 𡱟 𡱴 𡲑 𡲒 𡷨 𡸝 𡸟 𡻝 𡿂 𡿧 𡿩 𡿪 𡿬 𡿭 𡿮 𡿯 𡿰 𡿱 𡿲 𡿳 𡿴 𡿵 𡿶 𡿷 𡿸 𡿹 𡿺 𡿻 𡿼 𡿽 𡿾 𡿿 𢀀 𢀁 𢀂 𢀃 𢀄 𢀅 𢀆 𢀇 𢀈 𢀉 𢀊 𢀋 𢀌 𢀍 𢀎 𢀏 𢀐 𢀫 𢁎 𢂩 𢂪 𢆭 𢔉 𢙉 𢙼 𢚰 𢠚 𢣈 𢪢 𢭓 𢮟 𢴜 𢴫 𢷰 𢹬 𢹭 𢺍 𢺎 𢺠 𣆬 𣇁 𣉑 𣋲 𣎂 𣓩 𣔜 𣖊 𣝞 𣢱 𣣦 𣧄 𣧽 𣨸 𣩓 𣫒 𣬡 𣯐 𣰩 𣰫 𣱮 𣲂 𣳧 𣳺 𣴖 𣶄 𣶖 𣶜 𣷁 𣸟 𣹺 𣺤 𣻽 𣽪 𤁯 𤂋 𤇱 𤉣 𤉩 𤊲 𤋴 𤍒 𤎁 𤎞 𤎾 𤏕 𤏞 𤑗 𤑹 𤕆 𤛉 𤜓 𤝾 𤠃 𤠪 𤢪 𤤼 𤦄 𤧜 𤨏 𤪍 𤫔 𤭉 𤭓 𤮲 𤰕 𤰝 𤱹 𤱽 𤱾 𤲑 𤲙 𤳊 𤳤 𤳫 𤳯 𤳲 𤴅 𤶆 𤷻 𤹻 𤽋 𤿄 𥀮 𥀰 𥄉 𥅀 𥊌 𥍧 𥒤 𥒩 𥓱 𥓲 𥔥 𥕘 𥘍 𥚉 𥜿 𥝁 𥟜 𥟸 𥡍 𥥻 𥫪 𥯙 𥲀 𥶢 𥷿 𥸆 𥻘 𦃽 𦆻 𦈄 𦈵 𦉔 𦉥 𦉨 𦎺 𦒦 𦒩 𦕭 𦕯 𦗔 𦛁 𦞡 𦟳 𦠼 𦡓 𦡳 𦩽 𦪴 𦮋 𦮨 𦱝 𦳲 𦴟 𦸛 𦼝 𦽁 𦾱 𦿊 𦿨 𧀗 𧀨 𧃡 𧄩 𧄵 𧅕 𧇄 𧇏 𧇕 𧈈 𧈊 𧌵 𧍼 𧑀 𧑳 𧕂 𧕱 𧖇 𧘀 𧘄 𧚱 𧚲 𧛵 𧜇 𧞪 𧥥 𧧮 𧩣 𧫇 𧭄 𧭞 𧯬 𧰠 𧱥 𧳀 𧳦 𧴲 𧵜 𧷣 𧸰 𧸶 𨀨 𨄓 𨆪 𨉒 𨊩 𨌷 𨏄 𨑝 𨒰 𨓌 𨓷 𨔃 𨔜 𨔭 𨕥 𨖁 𨖑 𨖝 𨘇 𨚳 𨜇 𨝉 𨝖 𨞑 𨠸 𨢪 𨨬 𨨴 𨪮 𨮫 𨳖 𨻨 𨻩 𨿋 𨿴 𩈡 𩊼 𩋈 𩋝 𩌋 𩍀 𩏔 𩏙 𩐺 𩒆 𩒳 𩔪 𩔯 𩕝 𩕻 𩗮 𩘃 𩘛 𩙑 𩚓 𩛋 𩜊 𩝖 𩝹 𩟷 𩠐 𩠒 𩠖 𩠜 𩠝 𩠞 𩠡 𩠢 𩠣 𩠪 𩠫 𩣃 𩣪 𩤘 𩧆 𩨐 𩩀 𩩋 𩪇 𩪑 𩫥 𩬷 𩭙 𩯓 𩰹 𩳍 𩷏 𩷮 𩹒 𩾣 𪄉 𪅕 𪇹 𪊵 𪋍 𪍔 𪍨 𪏅 𪕣 𪖵 𪙂 𪙷 𪡿 𪦅 𪩡 𪪝 𪪯 𪱵 𪵃 𪹟 𪺟 𫆞 𫇂 𫊄 𫎥 𫏎 𫏦 𫖩 𫚅 𫚭 𫝓 𫡸 𫬈 𫬶 𫰊 𫳗 𫵎 𫶩 𫶪 𫹱 𫻾 𫽨 𫿢 𬆛 𬌊 𬐿 𬓩 𬛂 𬨓 𬩆 𬭲 𬯞 𬯮 𬷰 𬿏 𭂹 𭂼 𭈊 𭈵 𭌁 𭔐 𭔛 𭗺 𭗼 𭗽 𭗾 𭗿 𭘁 𭘥 𭘦 𭛘 𭟊 𭬺 𭴠 𭵙 𭵰 𭷤 𭸖 𭼄 𭼍 𭼺 𭾡 𮁁 𮄶 𮈸 𮊗 𮌦 𮐞 𮖓 𮗒 𮝘 𮝟 𮠅 𮣍 𮨑 𮪌 𮪱 𰀠 𰀱 𰃪 𰃱 𰅷 𰈐 𰈫 𰋌 𰌳 𰌿 𰏄 𰏅 𰏆 𰏛 𰒞 𰒱 𰕀 𰛅 𰣇 𰤔 𰩼 𰶣 𱀹 𱄍 𱊎 𱌣 𱏧 𱑄 𱒤 𱕄 𱖉 𱙃 𱜖 𱞐 𱦱 𱧼 𱨀 𱫐 𱫝 𱭐 𱮦 𱯈 𱯛 𱰭 𱲻 𱳺 𱴊 𱴢 𱵸 𱹼 𱻂 𱻑 𱼃 𱾜 𱿀 𲂗 𲂫 𲂺 𲃀 𲌐"}
 {"character":"𡿩","pattern":"⿱","composition":"巛 𠔼","dependencies":"𡿨 巛 冂 一 𠔼","dependents":"𠗢 𠜊 𣶄 𥟸 𧌵 𧚲 𨔜 𩘃 𱫝"}
 {"character":"𡿪","pattern":"⿱","composition":"巛 夕","dependencies":"𡿨 巛 夕","dependents":"拶 桚 𠊖 𠛱 𠞝 𠡝 𤉩 𥍧 𥟜 𦱝 𨀨 𪵃 𬓩 𭈵 𱒤"}
@@ -95151,7 +95151,7 @@
 {"character":"𱰪","pattern":"⿱","composition":"田 仒","dependencies":"田 𠆢 冫 仒"}
 {"character":"𱰫","pattern":"⿰","composition":"田 方","dependencies":"田 方"}
 {"character":"𱰬","pattern":"⿲","composition":"田 冫 匕","dependencies":"田 冫 匕"}
-{"character":"𱰭","pattern":"⿱","composition":"𡿧 田","dependencies":"𡿨 巛 一 𡿧 田","dependents":"𤱹 𦿨 𧇕 𱹼"}
+{"character":"𱰭","pattern":"⿱","composition":"𡿧 田","dependencies":"𡿨 巛 一 𡿧 田","dependents":"葘 𤱹 𦿨 𧇕 𱹼"}
 {"character":"𱰮","pattern":"⿱","composition":"田 令","dependencies":"田 𠆢 丶 亽 龴 令"}
 {"character":"𱰯","pattern":"⿱","composition":"𱏿 田","dependencies":"冫 口 𱏿 田"}
 {"character":"𱰰","pattern":"⿻ ⿱","composition":"甲 一 丛","dependencies":"甲 一 人 从 丛"}
